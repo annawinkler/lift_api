@@ -1,0 +1,429 @@
+violation_code,violation_code_description,serialid
+E101,Electric elevator: Door Reopening Device,1
+E102,Electric elevator: Stop Switches,2
+E103,Electric elevator: Operating Control Devices,3
+E104,Electric elevator: Sills and Car Floor,4
+E105,Electric elevator: Car Lighting and Receptacles,5
+E106,Electric elevator: Car Emergency Signals,6
+E107,Electric elevator: Car Door or Gate,7
+E108,Electric elevator: Door Closing Force,8
+E109,Electric elevator: Power Closing of Doors or Gates,9
+E110,Electric elevator: Power Opening of Doors or Gates,10
+E111,Electric elevator: Car Vision Panels and Glass Car Doors,11
+E112,Electric elevator: Car Enclosure,12
+E113,Electric elevator: Emergency Exit,13
+E114,Electric elevator: Ventilation,14
+E115,Electric elevator: Signs and Operating Device Symbols,15
+E116,"Electric elevator: Rated Load, Platform Area, and Data Plate",16
+E117,Electric elevator: Standby Power Operation,17
+E118,Electric elevator: Restricted Opening of Car or Hoistway Doors,18
+E119,Electric elevator: Car Ride,19
+E151,"Electric elevator: Car signals, switches, buttons (to include ADA)",20
+E152,Electric elevator: Bulletin boards,21
+E153,Electric elevator: Certificate of Operation (and frame),22
+E154,Electric elevator: Emergency stop switch (prohibited after 1979) Keyed Run/Stop Switch required (A17.1d-1986)(A17.3-1996),23
+E155,Electric elevator: Accessibility code (ADA; A117.1),24
+E156,Electric elevator: Destination oriented operating devices,25
+E201,Electric elevator: Access to Machines Spaces,26
+E202,Electric elevator: Headroom,27
+E203,Electric elevator: Lighting and Receptacles,28
+E204,Electric elevator: Machine Spaces and Control Spaces,29
+E205,Electric elevator: Housekeeping,30
+E206,Electric elevator: Ventilation,31
+E207,Electric elevator: Fire Extinguisher,32
+E208,"Electric elevator: Pipes, Wiring & Ducts",33
+E209,Electric elevator: Guarding of exposed auxiliary equipment,34
+E210,"Electric elevator: Numbering of elevators, machines, controllers and disconnect switches",35
+E211,Electric elevator: Disconnecting Means and Control,36
+E212,"Electric elevator: Controller Wiring, Fuses, Grounding, Etc.",37
+E213,"Electric elevator: Governor, Overspeed Switch, and Seal",38
+E214,Electric elevator: Code Data Plate,39
+E215,Electric elevator: Static Control,40
+E216,Electric elevator: Overhead Beams and Fastenings,41
+E217,Electric elevator: Drive Machine Brake,42
+E218,Electric elevator: Traction Drive Machines,43
+E219,"Electric elevator: Gears, Bearings, and Flexible Couplings",44
+E220,"Electric elevator: Winding drum machine and slack cable device, stop motion switch and rope fastening",45
+E221,Electric elevator: Belt- or Chain- Drive Machine,46
+E222,Electric elevator: Motor Generator,47
+E223,Electric elevator: Absorption of Regenerated Power,48
+E224,Electric elevator: AC Drives From a DC Source,49
+E225,Electric elevator: Traction Sheaves,50
+E226,Electric elevator: Secondary and Deflector Sheaves,51
+E227,Electric elevator: Rope Fastenings,52
+E228,Electric elevator: Terminal Stopping Devices,53
+E229,Electric elevator: Car and Counterweight Safeties,54
+E240,Electric elevator: Inspection control,55
+E241,Electric elevator: Maintenance records,56
+E251,Electric elevator: Machine room door sign,57
+E252,Electric elevator: Working & electrical clearances,58
+E253,Electric elevator: Temperature / Humidity control,59
+E254,Electric elevator: Weather protection,60
+E255,Electric elevator: Cab & machine room A/C disconnect & wiring,61
+E256,"Electric elevator: Missing covers, straps, wiring, conduit, etc.",62
+E257,Electric elevator: Serial number,63
+E258,Electric elevator: Evacuation procedures,64
+E259,Electric elevator: Electrical schematics,65
+E260,Electric elevator: Test records,66
+E261,Electric elevator: Maintenance Control Program,67
+E262,Electric elevator: Rusting equipment,68
+E301,Electric elevator: Top-Of-Car Stop Switch,69
+E302,Electric elevator: Car Top Lighting and Outlet,70
+E303,Electric elevator: Top-of-Car Operating Device,71
+E304,"Electric elevator: Top Car Clearance, Refuge Space, and Standard Railing",72
+E305,Electric elevator: Normal Terminal Stopping Devices,73
+E306,Electric elevator: Final and Emergency Terminal Stopping Devices,74
+E307,Electric elevator: Car Leveling and Anti-Creep Devices,75
+E308,Electric elevator: Top Emergency Exit,76
+E309,Electric elevator: Floor and Emergency Identification Numbering,77
+E310,Electric elevator: Hoistway Construction,78
+E311,Electric elevator: Hoistway Smoke Control,79
+E312,"Electric elevator: Pipes, Wiring, Ducts and Conduit",80
+E313,"Electric elevator: Windows, Projections, Recesses, & Setbacks",81
+E314,Electric elevator: Hoistway Clearances,82
+E315,Electric elevator: Multiple Hoistways,83
+E316,Electric elevator: Traveling Cables and Junction Boxes,84
+E317,Electric elevator: Door and Gate Equipment,85
+E318,Electric elevator: Car Frame and Stiles,86
+E319,Electric elevator: Guide Rails Fastening and Equipment,87
+E320,Electric elevator: Governor Rope,88
+E321,Electric elevator: Governor Releasing Carrier,89
+E322,Electric elevator: Wire Rope Fastening and Hitch Plate,90
+E323,Electric elevator: Suspension Rope,91
+E324,Electric elevator: Top Counterweight Clearance,92
+E325,"Electric elevator: Car, Overhead, and Deflector Sheaves",93
+E326,"Electric elevator: Broken Rope, Chain, or Tape Switch",94
+E327,Electric elevator: Crosshead Data Plate and Rope Data Tags,95
+E328,Electric elevator: Counterweights and Counterweight Buffer,96
+E329,Electric elevator: Counterweight Safeties,97
+E330,Electric elevator: Speed test,98
+E333,Electric elevator: Compensating Ropes and Chains,99
+E351,Electric elevator: Rusting equipment,100
+E401,Electric elevator: Car Platform Guard,101
+E402,Electric elevator: Hoistway Doors,102
+E403,Electric elevator: Vision Panels,103
+E404,Electric elevator: Hoistway Door Locking Devices,104
+E405,Electric elevator: Access to Hoistway,105
+E406,Electric elevator: Power Closing of Hoistway Doors,106
+E407,Electric elevator: Sequence Operation,107
+E408,Electric elevator: Hoistway Enclosure,108
+E409,Electric elevator: Elevator Parking Device,109
+E410,Electric elevator: Emergency Doors in Blind Hoistways,110
+E411,Electric elevator: Separate Counterweight Hoistway,111
+E412,Electric elevator: Standby Power Selection Switch,112
+E413,Electric elevator: Inspection control,113
+E451,Electric elevator: Hall stations and signals (to include lobby panels; phone monitoring; access; etc.),114
+E452,Electric elevator: Missing braille; signs; symbols,115
+E453,Electric elevator: Illumination,116
+E454,Electric elevator: Destination oriented operating devices,117
+E501,"Electric elevator: Pit Access, Lighting, Stop Switch, Condition",118
+E502,"Electric elevator: Bottom Clearance, Runby, Refuge Space",119
+E503,Electric elevator: Final and Emergency Terminal Stopping Devices,120
+E504,Electric elevator: Normal Terminal Stopping Devices,121
+E505,Electric elevator: Traveling Cables,122
+E506,Electric elevator: Governor-Rope Tensioning Devices,123
+E507,Electric elevator: Car Frame and Platform,124
+E508,Electric elevator: Car Safeties and Guiding Members,125
+E509,Electric elevator: Buffer and Emergency Terminal Speed Limiting Devices,126
+E510,"Electric elevator: Compensating Chains, Ropes and Sheaves",127
+E552,Electric elevator: Sump and/or sump pump & cover,128
+E553,Electric elevator: Ladder,129
+E555,"Electric elevator: Counterweight guard, runby marking plate",130
+E556,Electric elevator: Foreign equipment,131
+E557,"Electric elevator: NEMA fixtures, etc. if sprinkled",132
+E558,Electric elevator: Rusting equipment,133
+E601,Electric elevator: FFS A17.1b-1973 through A17.1b-1980,134
+E602,Electric elevator: FFS A17.1-1981 through A17.1b-1983,135
+E603,"Electric elevator: FFS A17.1-1984 through A17,1a-1988 & A17.3, 1996",136
+E604,Electric elevator: FFS A17.1-1989 though A17.1d-2000,137
+E605,Electric elevator: FFS A17.1-2000,138
+E606,Electric elevator: FFS A17.1a-2005,139
+E607,Electric elevator: FFS A17.1b-2009,140
+E801,Electric elevator: Access to machine/control room/space,141
+E802,Electric elevator: Access door and openings,142
+E803,Electric elevator: Enclosure of room and spaces,143
+E804,Electric elevator: Maintenance path and clearance,144
+E805,Electric elevator: Machin(ery)/control rooms/spaces containing overhead drive machines,145
+E806,Electric elevator: Temperature/humidity,146
+E807,Electric elevator: Disconnecting Means,147
+E808,Electric elevator: Remote room/space - permanent 2-way communication to car,148
+E809,Electric elevator: Inspection and test panels,149
+E810,"Electric elevator: Governor, Overspeed Switch",150
+E811,Electric elevator: Emergency brake,151
+E812,Electric elevator: Traction sheaves,152
+E813,Electric elevator: Secondary and deflector sheaves,153
+E814,Electric elevator: Terminal Stopping Devices,154
+E815,Electric elevator: Working areas in hoistway and pit,155
+E816,"Electric elevator: Location of rooms, spaces, equipment",156
+E851,Electric elevator: Other,157
+E999,Electric elevator: Noncompliance: Permitting; Licensing; Credentials; etc.,158
+H101,Hydraulic elevators: Door Reopening Device,159
+H102,Hydraulic elevators: Stop Switches,160
+H103,Hydraulic elevators: Operating Control Devices,161
+H104,Hydraulic elevators: Sills and Car Floor,162
+H105,Hydraulic elevators: Car Lighting and Receptacles,163
+H106,Hydraulic elevators: Car Emergency Signals,164
+H107,Hydraulic elevators: Car Door or Gate,165
+H108,Hydraulic elevators: Door Closing Force,166
+H109,Hydraulic elevators: Power Closing of Doors or Gates,167
+H110,Hydraulic elevators: Power Opening of Doors or Gates,168
+H111,Hydraulic elevators: Car Vision Panels and Glass Car Doors,169
+H112,Hydraulic elevators: Car Enclosure,170
+H113,Hydraulic elevators: Emergency Exit,171
+H114,Hydraulic elevators: Ventilation,172
+H115,Hydraulic elevators: Signs and Operating Device Symbols,173
+H116,"Hydraulic elevators: Rated Load, Platform Area, and Data Plate",174
+H117,Hydraulic elevators: Standby Power Operation,175
+H118,Hydraulic elevators: Restricted Opening of Car or Hoistway Doors,176
+H119,Hydraulic elevators: Car ride,177
+H151,"Hydraulic elevators: Car signals, switches, buttons (to include ADA)",178
+H152,Hydraulic elevators: Bulletin boards,179
+H153,Hydraulic elevators: Certificate of Operation (and frame),180
+H154,Hydraulic elevators: Emergency stop switch (prohibited after 1979) Keyed Run/Stop Switch required (A17.1d-1986)(A17.3-1996),181
+H155,Hydraulic elevators: Accessibility code (ADA; A117.1),182
+H156,Hydraulic elevators: Destination oriented operating devices,183
+H201,Hydraulic elevators: Access to Machine Spaces,184
+H202,Hydraulic elevators: Headroom,185
+H203,Hydraulic elevators: Lighting and Receptacle,186
+H204,Hydraulic elevators: Machine Spaces and Control Spaces,187
+H205,Hydraulic elevators: Housekeeping,188
+H206,Hydraulic elevators: Ventilation,189
+H207,Hydraulic elevators: Fire Extinguisher,190
+H208,"Hydraulic elevators: Pipes, Wiring & Ducts",191
+H209,Hydraulic elevators: Guarding of Exposed Auxilliary Equipment,192
+H210,"Hydraulic elevators: Numbering of Elevators, Machines, Controllers and Disconnect switches",193
+H211,Hydraulic elevators: Disconnecting Means and Control,194
+H212,"Hydraulic elevators: Controller Wiring, Fuses, Grounding, Etc.",195
+H213,"Hydraulic elevators: Governor, Overspeed Switch, and Seal",196
+H214,Hydraulic elevators: Code Data Plate,197
+E217,Hydraulic elevators: Drive Machine Brake,198
+H230,Hydraulic elevators: Hydraulic Power Unit,199
+H231,Hydraulic elevators: Relief Valves,200
+H232,Hydraulic elevators: Control Valve,201
+H233,Hydraulic elevators: Tanks,202
+H234,Hydraulic elevators: Flexible Hydraulic Hose and Fitting Assemblies,203
+H235,Hydraulic elevators: Supply Line and Shutoff Valve,204
+H236,Hydraulic elevators: Hydraulic Cylinders,205
+H237,Hydraulic elevators: Pressure Switch,206
+H238,Hydraulic elevators: Roped Water Hydraulic Elevators,207
+H239,Hydraulic elevators: Low Oil Protection,208
+H241,Hydraulic elevators: Maintenance Records,209
+H242,Hydraulic elevators: Static Control,210
+H251,Hydraulic elevators: Machine room door sign,211
+H252,Hydraulic elevators: Working & Electrical Clearances,212
+H253,Hydraulic elevators: Temperature / Humidity control,213
+H254,Hydraulic elevators: Weather protection,214
+H255,Hydraulic elevators: Cab & Machine Room A/C disconnect & wiring,215
+H256,"Hydraulic elevators: Missing covers, straps, wiring, conduit, etc.",216
+H257,Hydraulic elevators: Serial number,217
+H258,Hydraulic elevators: Evacuation procedures,218
+H259,Hydraulic elevators: Electrical schematics,219
+H260,Hydraulic elevators: Test records,220
+H261,Hydraulic elevators: Maintenance Control Program,221
+H262,Hydraulic elevators: Rusting equipment,222
+H301,Hydraulic elevators: Top-Of-Car Stop Switch,223
+H302,Hydraulic elevators: Car Top Lighting and Outlet,224
+H303,Hydraulic elevators: Top-of-Car Operating Device,225
+H304,"Hydraulic elevators: Top Car Clearance, Refuge Space, and Standard Railing",226
+H305,Hydraulic elevators: Normal Terminal Stopping Devices,227
+H306,Hydraulic elevators: Final and Emergency Terminal Stopping Devices,228
+H307,Hydraulic elevators: Car Leveling and Anti-Creep Devices,229
+H308,Hydraulic elevators: Top Emergency Exit,230
+H309,Hydraulic elevators: Floor and Emergency Identification Numbering,231
+H310,Hydraulic elevators: Hoistway Construction,232
+H311,Hydraulic elevators: Hoistway Smoke Control,233
+H312,"Hydraulic elevators: Pipes, Wiring, Ducts, and Conduit",234
+H313,"Hydraulic elevators: Windows, Projections, Recesses, & Setbacks",235
+H314,Hydraulic elevators: Hoistway Clearances,236
+H315,Hydraulic elevators: Multiple Hoistways,237
+H316,Hydraulic elevators: Traveling Cables and Junction Boxes,238
+H317,Hydraulic elevators: Door and Gate Equipment,239
+H318,Hydraulic elevators: Car Frame and Stiles,240
+H319,Hydraulic elevators: Guide Rails Fastening and Equipment,241
+H330,Hydraulic elevators: Speed Test,242
+H331,Hydraulic elevators: Slack Rope Device (Roped Hydraulic),243
+H332,Hydraulic elevators: Traveling Sheave (Roped Hydraulic),244
+H351,Hydraulic elevators: Rusting Equipment,245
+H401,Hydraulic elevators: Car Platform Guard,246
+H402,Hydraulic elevators: Hoistway Doors,247
+H403,Hydraulic elevators: Vision Panels,248
+H404,Hydraulic elevators: Hoistway Door Locking Devices,249
+H405,Hydraulic elevators: Access to Hoistway,250
+H406,Hydraulic elevators: Power Closing of Hoistway Doors,251
+H407,Hydraulic elevators: Sequence Operation,252
+H408,Hydraulic elevators: Hoistway Enclosure,253
+H409,Hydraulic elevators: Elevator Parking Device,254
+H410,Hydraulic elevators: Emergency Doors in Blind Hoistways,255
+H412,Hydraulic elevators: Standby Power Selection Switch,256
+H413,Hydraulic elevators: Inspection Control,257
+H451,Hydraulic elevators: Hall stations and signals (to include lobby panels; phone monitoring; access; etc.),258
+H452,Hydraulic elevators: Missing Braille; signs; symbols,259
+H453,Hydraulic elevators: Illumination,260
+H454,Hydraulic elevators: Destination oriented operating devices,261
+H501,"Hydraulic elevators: Pit Access, Lighting, Stop Switch, Condition",262
+H502,"Hydraulic elevators: Bottom Clearance, Runby, Refuge Space",263
+H503,Hydraulic elevators: Final and Emergency Terminal Stopping Devices,264
+H504,Hydraulic elevators: Normal Terminal Stopping Devices,265
+H505,Hydraulic elevators: Traveling Cables,266
+H506,Hydraulic elevators: Governor-Rope Tensioning Devices,267
+H507,Hydraulic elevators: Car Frame and Platform,268
+H508,Hydraulic elevators: Car Safeties and Guiding Members,269
+H511,Hydraulic elevators: Plunger and Cylinder,270
+H512,Hydraulic elevators: Car Buffer,271
+H513,Hydraulic elevators: Guiding Members,272
+H514,Hydraulic elevators: Supply Piping,273
+H515,Hydraulic elevators: Overspeed valve,274
+H551,Hydraulic elevators: Safety bulkhead,275
+H552,Hydraulic elevators: Sump and/or sump pump & cover,276
+H553,Hydraulic elevators: Ladder,277
+H554,Hydraulic elevators: Oil pit can(s)/ reservior(s),278
+H556,Hydraulic elevators: Foreign equipment,279
+H557,"Hydraulic elevators: NEMA fixtures, etc. if sprinkled",280
+H558,Hydraulic elevators: Rusting equipment,281
+H601,Hydraulic elevators: FFS A17.1b-1973 through A17.1b-1980,282
+H602,Hydraulic elevators: FFS A17.1-1981 through A17.1b-1983,283
+H603,"Hydraulic elevators: FFS A17.1-1984 through A17,1a-1988 & A17.3, 1996",284
+H604,Hydraulic elevators: FFS A17.1-1989 though A17.1d-2000,285
+H605,Hydraulic elevators: FFS A17.1-2000,286
+H606,Hydraulic elevators: FFS A17.1a-2005,287
+H607,Hydraulic elevators: FFS A17.1b-2009,288
+H801,Hydraulic elevators: Access to machine/control room/space,289
+H802,Hydraulic elevators: Access door and openings,290
+H803,Hydraulic elevators: Enclosure of room and spaces,291
+H804,Hydraulic elevators: Maintenance path and clearance,292
+H805,Hydraulic elevators: Machin(ery)/control rooms/spaces containing overhead drive machines,293
+H806,Hydraulic elevators: Temperature/humidity,294
+H807,Hydraulic elevators: Disconnecting Means,295
+H808,Hydraulic elevators: Remote room/space - permanent 2-way communication to car,296
+H809,Hydraulic elevators: Inspection and test panels,297
+H815,Hydraulic elevators: Working areas in hoistway and pit,298
+H816,"Hydraulic elevators: Location of rooms, spaces, equipment",299
+H817,Hydraulic elevators: Shutoff/manual lowering valve,300
+H818,Hydraulic elevators: Pressure guage fittings,301
+H819,Hydraulic elevators: Atmosphere storage & discharge tanks,302
+H820,Hydraulic elevators: Pressure piping,303
+H851,Hydraulic elevators: Other,304
+H999,Hydraulic elevators: Noncompliance: Permitting; Licensing; Credentials; etc.,305
+S701,Escalator: General Fire Protection,306
+S702,Escalator: Geometry,307
+S703,Escalator: Handrails,308
+S704,Escalator: Entrance and Egress Ends,309
+S705,Escalator: Lighting,310
+S706,Escalator: Caution Signs,311
+S707,Escalator: Combplate and Comb Step Impact Device,312
+S708,Escalator: Deck Barricades and Antislide Devices,313
+S709,Escalator: Steps and Upthrust Device,314
+S710,Escalator: Operating and Safety Devices,315
+S711,Escalator: Skirt Obstruction Device,316
+S713,Escalator: Egress Restriction (rolling shutter) Device,317
+S714,Escalator: Speed,318
+S715,Escalator: Balustrades,319
+S716,Escalator: Ceiling Intersection Guards,320
+S717,"Escalator: Step Clearances, Panels, and Performance Index",321
+S718,Escalator: Outdoor Protection,322
+S719,Escalator: Maintenance Records,323
+S751,"Escalator: Access, Lighting, Receptacle, Condition",324
+S752,Escalator: Stop Switches and inspection control,325
+S753,Escalator: Controller and Wiring,326
+S754,Escalator: Drive Machine and Brake,327
+S755,Escalator: Speed Governor,328
+S756,Escalator: Broken Chain Drive and Disconnected Motor Safety Device,329
+S757,Escalator: Reversal Stop Switch,330
+S758,Escalator: Broken Step Chain Device,331
+S759,Escalator: Step Upthrust Device,332
+S760,Escalator: Missing Step Device,333
+S761,Escalator: Step Level Device,334
+S762,Escalator: Steps chains and trusses,335
+S763,Escalator: Handrail System and Safety Devices,336
+S764,Escalator: Code Data Plate,337
+S765,Escalator: Response to Smoke Detectors,338
+S766,Escalator: Step Lateral Displacement Device,339
+S767,Escalator: Inspection control,340
+S999,Escalator: Noncompliance: Permitting; Licensing; Credentials; etc.,341
+M701,Moving Walk: General Fire Protection,342
+M702,Moving Walk: Geometry,343
+M703,Moving Walk: Handrails,344
+M704,Moving Walk: Entrance and Egress Ends,345
+M705,Moving Walk: Lighting,346
+M706,Moving Walk: Caution Signs,347
+M707,Moving Walk: Combplate and Comb Step Impact Device,348
+M708,Moving Walk: Deck Barricades,349
+M709,Moving Walk: Treadways,350
+M710,Moving Walk: Operating and Safety Devices,351
+M713,Moving Walk: Egress Restriction (rolling shutter) Device,352
+M714,Moving Walk: Speed,353
+M715,Moving Walk: Balustrades,354
+M716,Moving Walk: Ceiling Intersection Guards,355
+M717,Moving Walk: Skirt Panels,356
+M718,Moving Walk: Outdoor Protection,357
+M719,Moving Walk: Maintenance Records,358
+M751,"Moving Walk: Access, Lighting, Receptacle, Condition",359
+M752,Moving Walk: Stop Switch and inspection control,360
+M753,Moving Walk: Controller and Wiring,361
+M754,Moving Walk: Drive Machine and Brake,362
+M755,Moving Walk: Speed Governor,363
+M756,Moving Walk: Broken Drive Chain and Disconnected Motor Safety Device,364
+M757,Moving Walk: Reversal Stop Switch,365
+M758,Moving Walk: Broken Treadway Device,366
+M760,Moving Walk: Missing Pallet Device,367
+M761,Moving Walk: Pallet Level Device,368
+M762,"Moving Walk: Pallets, Pallet chains and trusses",369
+M763,Moving Walk: Handrail System and Safety Devices,370
+M764,Moving Walk: Code Data Plate,371
+M765,Moving Walk: Response to Smoke Detectors,372
+M767,Moving Walk: Inspection control,373
+M999,Moving Walk: Noncompliance: Permitting; Licensing; Credentials; etc.,374
+O100,Other- other than Accessibility Lifts: Must comply with appropriate parts of A17.1 and A17.3 (list Code Reference),375
+O103,Other-Dumbwaiters: Operating Control Devices,376
+O105,Other-Dumbwaiters: Car Lighting and Receptacles,377
+O107,Other-Dumbwaiters: Car Door or gate,378
+O109,Other-Dumbwaiters: Power Closing of Doors or Gates,379
+O110,Other-Dumbwaiters: Power Opening of Doors or Gates,380
+O112,Other-Dumbwaiters: Car Enclosures,381
+O116,"Other-Dumbwaiters: Rated Load, Platform Area, and Data Plate",382
+O153,Other-Dumbwaiters: Certificate of Operation (framed),383
+O201,Other-Dumbwaiters: Access to machine spaces,384
+O204,Other-Dumbwaiters: Machine Spaces & Control Spaces,385
+O208,"Other-Dumbwaiters: Pipes, Wiring and Ducts",386
+O209,Other-Dumbwaiters: Guarding of exposed auxillary equipment,387
+O210,"Other-Dumbwaiters: Numbering, Machines Controllers and Disconnect switches",388
+O213,"Other-Dumbwaiters: Governor, Overspeed Switch, and Seal",389
+O214,Other-Dumbwaiters: Code Data Plate,390
+O218,Other-Dumbwaiters: Traction Drive Machine,391
+O220,"Other-Dumbwaiters: Winding drum machine and slack cable device, stop motion switch, and rope fastening",392
+O229,Other-Dumbwaiters: Car and Counterweight Safeties,393
+O230,Other-Dumbwaiters: Hydraulic Power Unit,394
+O255,Other-Dumbwaiters: Car & Machine Room A/C disconnect & wiring,395
+O261,Other-Dumbwaiters: Maintenance Control Program,396
+O304,"Other-Dumbwaiters: Top-of-Car Clerance, Refuge Space, and Standard Railing",397
+O306,Other-Dumbwaiters: Final and Emergency Terminal Stopping Devices,398
+O310,Other-Dumbwaiters: Hoistway Construction,399
+O314,Other-Dumbwaiters: Hoistway Clearances,400
+O317,Other-Dumbwaiters: Door and Gate Equipment,401
+O319,Other-Dumbwaiters: Guide Rails Fastening and Equipment,402
+O323,Other-Dumbwaiters: Suspension Rope,403
+O325,"Other-Dumbwaiters: Car, Overhead, and Deflector Sheaves",404
+O328,Other-Dumbwaiters: Counterweights and counterweight buffer,405
+O329,Other-Dumbwaiters: Counterweight Safeties,406
+O334,Other-Dumbwaiters: Protection of Spaces Below Hoistway,407
+O404,Other-Dumbwaiters: Hoistway Door Locking Devices,408
+O501,"Other-Dumbwaiters: Pit Access, Lighting, Stop Switch, Condition",409
+O507,Other-Dumbwaiters: Car Frame and Platform,410
+O509,Other-Dumbwaiters: Buffer and emergency terminal speed limiting devices,411
+O555,"Other-Dumbwaiters: Counterweight guard, runby marking plate",412
+O901,Other- Accessibility Lifts: Inside platform,413
+O902,Other- Accessibility Lifts: Machine inspections,414
+O903,Other- Accessibility Lifts: Inside runway,415
+O904,Other- Accessibility Lifts: Outside runway,416
+O905,Other- Accessibility Lifts: Cylinders,417
+O906,Other- Accessibility Lifts: Safeties,418
+O907,Other- Accessibility Lifts: Governors,419
+O908,Other- Accessibility Lifts: Slack Rope Device (Winding drum),420
+O909,Other- Accessibility Lifts: Normal & Final term. Stopping devices,421
+O910,"Other- Accessibility Lifts: Broken rope, tape or chain switch",422
+O911,Other- Accessibility Lifts: Slack-rope device (roped hydraulic),423
+O912,Other- Accessibility Lifts: Unexposed portions of pistons,424
+O913,Other- Accessibility Lifts: Brake,425
+O914,Other- Accessibility Lifts: Ropes and fastenings,426
+O951,Other- Accessibility Lifts: Other,427
+O999,Other-All: Noncompliance: Permitting; Licensing; Credentials; etc.,428
